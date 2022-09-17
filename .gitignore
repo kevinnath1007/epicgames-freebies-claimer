@@ -8,7 +8,7 @@ device_auths.json
 deviceAuths.json
 history.json
 data/*
-!data/config.example.json
+!data/config.json
 .egstore/*
 .vscode/*
 !.vscode/settings.json
